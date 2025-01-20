@@ -15,6 +15,8 @@ This is a Streamlit-based chatbot that can answer user queries from uploaded PDF
    ```bash
    git clone https://github.com/sunayana77/chatbot.git
    cd chatbot
-2. pip install -r requirements.txt
+2. ```bash
+   pip install -r requirements.txt
 3. GOOGLE_API_KEY=your_api_key_here(replace it with your api key) which will be stored `.env` file securely
-4. streamlit run chatbot.py
+4. ```bash
+   streamlit run chatbot.py
