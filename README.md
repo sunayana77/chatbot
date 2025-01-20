@@ -16,5 +16,5 @@ This is a Streamlit-based chatbot that can answer user queries from uploaded PDF
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/sunayana77/document-chatbot.git
-   cd document-chatbot
+   git clone https://github.com/sunayana77/chatbot.git
+   cd chatbot
